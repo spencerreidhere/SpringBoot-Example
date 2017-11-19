@@ -1,4 +1,4 @@
-package de.spencer.main;
+package de.spencer.main.entity;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
